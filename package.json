@@ -19,10 +19,6 @@
   },
   "main": "background.js",
   "dependencies": {
-    "core-js": "^3.6.5",
-    "log4js": "^6.3.0",
-    "nodejs-websocket": "^1.7.2",
-    "uuid": "^8.3.2",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
